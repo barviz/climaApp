@@ -3,5 +3,6 @@
 //cuando se use esta credencial en nuestro código el uso será transparente sin importar en que entorno se esté
 
 export const environment = {
-  production: true
+  production: true,
+  key:'dda7c23875b8047ccec4ab459eadea59'
 };
